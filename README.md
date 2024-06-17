@@ -15,12 +15,10 @@ Gesture Controlled Mouse is a Python application that allows users to control th
    git clone https://github.com/yourusername/GestureControlledMouse.git
    cd GestureControlledMouse
 2. Install dependencies (Make sure Python 3.6+ is installed)
-   ```bash
    pip install -r requirements.txt
 
 ## Usage
 Run the application:
-         ```bash
         python gesture_controlled_mouse.py
         
 Follow on-screen instructions to calibrate and use the gesture controls.
